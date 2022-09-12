@@ -16,6 +16,7 @@
     text-align: center;
     vertical-align: middle;
     line-height: 122px; 
+    cursor: pointer;
 }
 
 
@@ -24,14 +25,19 @@
 }
 
 .Equal{
-    background-color:rgb(236, 202, 170);
+    background-color:rgb(233, 231, 139);
 }
 
 .Operation{
-    background-color:rgb(205, 224, 253);
+    background-color:rgb(253, 193, 193);
+}
+
+.Erase{
+    background-color:rgb(119, 112, 189);
 }
 
 .Result{
     background-color:rgb(214, 213, 197);
     font-size:40px;
 }
+
